@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Golang
-- 📫 How to reach me: jiawea.github.io
+- 💬 How to reach me: [E-mail](mailto:rayhwong@126.com)
+- 😄 Read more about my [blog](https://jiawea.github.io/)
