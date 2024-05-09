@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 - 💬 How to reach me: [E-mail](mailto:rayhwong@126.com)
+- 🤔 I’m currently using `GoLang` `Python` `K8s`
 - 😄 Read more about my [blog](https://jiawea.github.io/)
 
 <div>
