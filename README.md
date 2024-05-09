@@ -15,5 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 - 💬 How to reach me: [E-mail](mailto:rayhwong@126.com)
 - 😄 Read more about my [blog](https://jiawea.github.io/)
+
+<div>
+  <a href="https://github.com/JIAWea">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIAWea&show_icons=true&theme=radical&layout=compact" />
+  </a>
+</div>
+
+
+### Visitors Count
+![VisitorCount](https://profile-counter.glitch.me/{JIAWea}/count.svg)
